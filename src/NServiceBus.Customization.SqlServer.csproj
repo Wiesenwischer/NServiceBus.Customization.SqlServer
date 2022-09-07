@@ -10,9 +10,6 @@
 	<Authors>Zorica Dudarin, Marcus Dammann, Stefan Vogelsang</Authors>
 	<Description>Extension methods for customization of NServiceBus SqlServer hosts.</Description>
 	<PackageTags>NServiceBus</PackageTags>
-	<IncludeContentInPack>true</IncludeContentInPack>
-	<IncludeBuildOutput>false</IncludeBuildOutput>
-	<ContentTargetFolders>content</ContentTargetFolders>
 	<RepositoryUrl>https://github.com/Wiesenwischer/NServiceBus.Customization.SqlServer.git</RepositoryUrl>
 	<RepositoryType>git</RepositoryType>
   </PropertyGroup>
